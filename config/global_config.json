@@ -1,0 +1,13 @@
+{
+  "sdkVersion": "1.12", // The version of the Answers SDK to use
+  "apiKey": "sandbox-cc8b0bde99d9d71f0f7a6fa03200807b", 
+  "experienceVersion": "STAGING", 
+  "environment": "sandbox",  
+  "businessId": "2679138", 
+  "logo": "", 
+  "favicon": "",
+  "googleTagManagerName": "dataLayer", 
+  "googleTagManagerId": "", 
+  "googleAnalyticsId": "", 
+  "conversionTrackingEnabled": true 
+}
